@@ -1,2 +1,6 @@
 # hello-world
-My first respository
+
+Gitara siema w moim rezpozytorium!
+
+Moim ulubiony zajęciem jest oglądanie czelendży, programowania i uczenie się githuba na pamięć. 
+
